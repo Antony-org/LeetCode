@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Antony-org/LeetCode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Antony-org/LeetCode/tree/master/0414-third-maximum-number) |
+| [0792-binary-search](https://github.com/Antony-org/LeetCode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Antony-org/LeetCode/tree/master/0414-third-maximum-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Antony-org/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
