@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0782-jewels-and-stones](https://github.com/Antony-org/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0782-jewels-and-stones](https://github.com/Antony-org/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
