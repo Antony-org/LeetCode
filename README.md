@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Antony-org/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Antony-org/LeetCode/tree/master/3226-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
