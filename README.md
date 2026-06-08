@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Antony-org/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Antony-org/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Trie
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Antony-org/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Antony-org/LeetCode/tree/master/0414-third-maximum-number) |
 | [3226-minimum-number-game](https://github.com/Antony-org/LeetCode/tree/master/3226-minimum-number-game) |
 ## Binary Search
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Antony-org/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Antony-org/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
