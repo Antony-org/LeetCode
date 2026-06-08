@@ -4,19 +4,15 @@ class Solution {
             return false;
         }
 
-        char[] a = s.toCharArray();
-        char[] b = t.toCharArray();
-        
-        Arrays.sort(a);
-        Arrays.sort(b);
+        int[] sChars = new int[26];
+        int[] tChars = new int[26];
 
-        for(int i = 0; i < a.length; i++){
-            if (a[i] != b[i]){
-                return false;
-            }
+        for (int i = 0; i < s.length(); i++){
+            sChars[s.charAt(i) - 'a'] ++;
+            tChars[t.charAt(i) - 'a'] ++;
         }
 
-        return true;
+        return Arrays.equals(sChars, tChars);
+        
     }
 }
-        // System.out.println(a);
