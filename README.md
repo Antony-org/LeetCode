@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Antony-org/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Antony-org/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Antony-org/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Antony-org/LeetCode/tree/master/0242-valid-anagram) |
