@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Antony-org/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Antony-org/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Antony-org/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Antony-org/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Antony-org/LeetCode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/Antony-org/LeetCode/tree/master/0792-binary-search) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Antony-org/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Antony-org/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
