@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Antony-org/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Antony-org/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Antony-org/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Antony-org/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Antony-org/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Antony-org/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Antony-org/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Antony-org/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Antony-org/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Antony-org/LeetCode/tree/master/0217-contains-duplicate) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Antony-org/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Antony-org/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
