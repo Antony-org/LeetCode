@@ -23,7 +23,6 @@ class Solution {
                 cols[j].add(board[i][j]);
                 boxes[x].add(board[i][j]);
             }
-            System.out.println(i);
         }
         return true;
     }
